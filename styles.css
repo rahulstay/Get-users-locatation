@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#getLocation{
+padding: 10px;
+outline: none;
+border: 1px solid rgb(31, 139, 182);
+background-color: skyblue;
+border-radius: 3px;
+}
